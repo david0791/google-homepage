@@ -1,3 +1,10 @@
 * {
     font-family: monospace, sans-serif;
+    border: 1px solid;
+}
+
+.logo {
+    margin: auto;
+    width : 50%;
+    padding: 10px;
 }
